@@ -1,0 +1,21 @@
+body{
+    background-color:bisque;
+    color: black;
+}
+h1{
+    background-color: palevioletred;
+    color: rebeccapurple;
+    margin-bottom: 0;
+}
+nav{
+    background-color: rebeccapurple;
+}
+h2{
+     color:blue;
+}
+.resort{
+    color:blueviolet;
+}
+#contact{
+    font-size:90%;
+}
